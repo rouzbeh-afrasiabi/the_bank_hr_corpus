@@ -1,4 +1,4 @@
-# the_bank_hr_copus
+# The Bank HR Corpus
 A set of 262 fictional HR documents and 13 data tables for a bank with employees in Canada and the US.
 They are written for retrieval and question-answering experiments, such as the agent-native retrieval. Nothing here is the policy of a real organization, and no
 real organization, person or phone number is named. Every document says so at the top. The employee roster
